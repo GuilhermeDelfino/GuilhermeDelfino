@@ -127,9 +127,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDelfino&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeDelfino&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDelfino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeDelfino&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeDelfino&theme=tokyonight&hide_border=true)
 
