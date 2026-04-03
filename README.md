@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║   Guilherme Delfino Narciso · Software Engineer · Backend        ║
+║   Guilherme Narciso · Software Engineer · Backend        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
