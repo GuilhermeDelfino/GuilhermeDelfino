@@ -9,7 +9,7 @@
 ### Mid-Level Software Engineer | Java · Go · Cloud · Microservices
 
 3+ years of experience building large-scale distributed systems for clients such as  
-**Google Fiber**, **T-Mobile**, **Swisscom**, **Claro**, and **RaiaDrogasil (47.6M active customers)**.
+**Google Fiber**, **T-Mobile**, **Swisscom**, **CircleK**, and **RaiaDrogasil (47.6M active customers)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--narciso-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/guilherme-narciso)
 [![GitHub](https://img.shields.io/badge/GitHub-GuilhermeDelfino-181717?style=flat-square&logo=github)](https://github.com/GuilhermeDelfino)
