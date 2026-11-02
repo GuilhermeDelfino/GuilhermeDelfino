@@ -23,6 +23,7 @@
 
 - 🏢 **Senior Software Engineer** at GFT, developing backend services for an Open Finance solution.
 - 🤖 Building AI agents with Devin and Windsurf to automate development workflows, including ticket creation, bug resolution, and pull request feedback.
+- 🎓 Pursuing a postgraduate specialization in Software Architecture at FIAP, in partnership with Alura (Mar 2026 – Mar 2027, expected).
 - 🌍 Previously at Netcracker, working with international teams on backend infrastructure for telecom operators.
 - ⚡ Resolved a timeout during Google Fiber’s go-live, reducing query execution time from **40+ seconds to under 6 seconds** across **3M+ records**.
 - 🔧 Focused on **Java, Spring Boot, microservices, event-driven systems**, and performance.
