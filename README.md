@@ -6,9 +6,9 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-### Mid-Level Software Engineer | Java · Go · Cloud · Microservices
+### Senior Software Engineer | Java · Backend · Distributed Systems
 
-3+ years of experience building large-scale distributed systems for clients such as  
+4+ years of experience building large-scale distributed systems for clients such as  
 **Google Fiber**, **T-Mobile**, **Swisscom**, **CircleK**, and **RaiaDrogasil (47.6M active customers)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilherme--narciso-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/guilherme-narciso)
@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-- 🏢 **Mid-Level Software Engineer** at [Netcracker](https://www.netcracker.com/) (NEC subsidiary, ~$2.7B revenue)
-- 🌍 Member of the **first Brazilian team** working on Netcracker’s NDO product
-- ⚡ Resolved a critical production timeout during **Google Fiber’s go-live** — reduced execution time from 40s+ to **~6s** across 2M+ records
-- ☁️ Strong experience with **AWS** and **Azure** (AKS, Cosmos DB, Service Bus, Event Hub)
-- 🔧 Specialized in **Java (Spring Boot)**, **Go**, microservices, and distributed systems
+- 🏢 **Senior Software Engineer** at GFT, developing backend services for an Open Finance solution.
+- 🤖 Building AI agents with Devin and Windsurf to automate development workflows, including ticket creation, bug resolution, and pull request feedback.
+- 🌍 Previously at Netcracker, working with international teams on backend infrastructure for telecom operators.
+- ⚡ Resolved a timeout during Google Fiber’s go-live, reducing query execution time from **40+ seconds to under 6 seconds** across **3M+ records**.
+- 🔧 Focused on **Java, Spring Boot, microservices, event-driven systems**, and performance.
 - 📍 São Paulo, Brazil · 🇧🇷 Native PT · 🇺🇸 Advanced EN
 
 ## 🛠️ Tech Stack
@@ -42,6 +42,10 @@
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### ☁️ Infrastructure & Messaging
+
+Java 21 · Kafka · RabbitMQ · AWS · Azure · Docker · Kubernetes · PostgreSQL
 
 <div align="center">
 
